@@ -1,0 +1,11 @@
+#"Day 2: 30 days of programming"
+first_name = You
+last_name = Tak
+full_name = YouTak
+country = USA
+city = SB
+age = 18
+is_married = no
+is_true = yes
+is_light = yes
+city, ice, cool = live, water, weather
